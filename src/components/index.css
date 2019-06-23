@@ -1,0 +1,14 @@
+.outerBoard {
+    width: 300px;
+    height: 300px;
+}
+
+.row {
+    display: flex;
+}
+
+.square {
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+}
